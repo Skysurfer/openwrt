@@ -40,7 +40,7 @@
 
 	phy_active: phy_active {
 		phy {
-			pins = "gpio6", "gpio7";
+			pins = "gpio6", "gpio7", "gpio8";
 			function = "gpio";
 			drive-strength = <2>;
 			bias-pull-down;
